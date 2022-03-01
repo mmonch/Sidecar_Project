@@ -20,7 +20,7 @@ looking to manage their data efficiently.
 3. Character-level Sequence to Sequence Model to generate Business Names
 4. Word-level Sequence to Sequence Model to generate Business Names
 5. GPT-2 for generation of Business Descriptions
-6. 
+
 ### Our approach
 A NLP model is best suited for this project. 
 As a benchmark, we first use a simple model to test out our approach and from there
