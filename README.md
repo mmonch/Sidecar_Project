@@ -33,6 +33,7 @@ More data is required for the generation of Business descriptions. Trying a diff
 produce better results.
 ### Contact
 https://www.linkedin.com/in/dae-jin-rhee/
+
 https://www.linkedin.com/in/marlies-monch/
 
 Project Organization
