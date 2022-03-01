@@ -6,31 +6,36 @@ Marlies Monch, Dae-Jin Rhee
 ------
 ### About The Project
 This project was a capstone project of the Data Science Bootcamp at SIT Academy. 
+
 ### Motivation
 Nowadays working with metadata is invaluable for any company working with large quantities of data.
 But managing them can be a costly and time intensive endeavor, especially naming each data entry
 manually.
 With this project we aim to automate the process of generating meaningful business labels for companies
 looking to manage their data efficiently.
+
 ### Methodology Used
-1. Twitter API: Fetching Tweets of company CEOs using Twython.
-2. Stock prices of publicly listed companies related to the CEOs (Source: Yahoo finance)
-3. Data cleaning
-4. TextBlob or VADER for Sentiment Analysis
-5. GLPTNeo
-6. LSTM model
+1. Exploratory Data Analysis in Google Colab 
+2. LDA Topic Modelling of the Business Descriptions
+3. Character-level Sequence to Sequence Model to generate Business Names
+4. Word-level Sequence to Sequence Model to generate Business Names
+5. GPT-2 for generation of Business Descriptions
+6. 
 ### Our approach
 A NLP model is best suited for this project. 
 As a benchmark, we first use a simple model to test out our approach and from there
 use more complex NLP models for generating the Business Labels.
+
 ### Results 
 Using a Language Translation model for generating Business names from auto-generated Technical names
 yielding accurate results.
 The Text Generation model for generating Business descriptions from Business names however were not
 as accurate. 
+
 ### Next Steps
 More data is required for the generation of Business descriptions. Trying a different model should 
 produce better results.
+
 ### Contact
 https://www.linkedin.com/in/dae-jin-rhee/
 
