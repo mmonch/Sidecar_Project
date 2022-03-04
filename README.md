@@ -19,9 +19,10 @@ looking to manage their data efficiently.
 Python:
 1. Exploratory Data Analysis in Google Colab 
 2. LDA Topic Modelling of the Business Descriptions
-3. Character-level Sequence to Sequence Model to generate Business Names
+3. Look-up Dictionary for Labels
 4. Word-level Sequence to Sequence Model to generate Business Names
-5. GPT-2 for generation of Business Descriptions
+5. Character-level Sequence to Sequence Model to generate Business Names
+6. GPT-2 for generation of Business Descriptions
 
 ### Our approach
 A NLP model is best suited for this project. 
