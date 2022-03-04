@@ -1,11 +1,12 @@
 Sidecar_Project
 ==============================
 
-# Creating Meaningful Business Labels from Metadata Attributes
-Marlies Monch, Dae-Jin Rhee
+# Creating Meaningful Business Labels and Descriptions from Technical Labels
+![wordcloud](https://user-images.githubusercontent.com/94742221/156773336-c4d37efb-72f4-418f-b6a0-8e1fd11c1ddc.png)
+[Marlies Monch](https://www.linkedin.com/in/marlies-monch/), [Dae-Jin Rhee](https://www.linkedin.com/in/dae-jin-rhee/)
 ------
 ### About The Project
-This project was a capstone project of the Data Science Bootcamp at SIT Academy. 
+This project was our capstone project at the Data Science Bootcamp at SIT Academy. 
 
 ### Motivation
 Nowadays working with metadata is invaluable for any company working with large quantities of data.
@@ -15,6 +16,7 @@ With this project we aim to automate the process of generating meaningful busine
 looking to manage their data efficiently.
 
 ### Methodology Used
+Python:
 1. Exploratory Data Analysis in Google Colab 
 2. LDA Topic Modelling of the Business Descriptions
 3. Character-level Sequence to Sequence Model to generate Business Names
@@ -36,10 +38,6 @@ as accurate.
 More data is required for the generation of Business descriptions. Trying a different model should 
 produce better results.
 
-### Contact
-https://www.linkedin.com/in/dae-jin-rhee/
-
-https://www.linkedin.com/in/marlies-monch/
 
 Project Organization
 ------------
